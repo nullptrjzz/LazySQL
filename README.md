@@ -12,12 +12,12 @@
 
 ```
 |-- ProjectDir
-	|-- lib
-	|	|-- lazy-sql-x.x-SNAPSHOP.jar
-	|-- src
-	|	|-- main
-	|		|-- java
-	|-- pom.xml
+    |-- lib
+    |    |-- lazy-sql-x.x-SNAPSHOP.jar
+    |-- src
+    |    |-- main
+    |    |-- java
+    |-- pom.xml
 ```
 
 #### Step 2

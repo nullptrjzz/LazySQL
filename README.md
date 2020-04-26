@@ -16,7 +16,7 @@
     |    |-- lazy-sql-x.x-SNAPSHOP.jar
     |-- src
     |    |-- main
-    |    |-- java
+    |        |-- java
     |-- pom.xml
 ```
 

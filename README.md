@@ -12,13 +12,13 @@
 项目结构如下：
 
 ```
-|--	ProjectDir
-	|--	lib
-	|	|--	lazy-sql-x.x-SNAPSHOP.jar
-	|--	src
-	|	|--	main
-	|		|--	java
-	|--	pom.xml
+|-- ProjectDir
+	|-- lib
+	|	|-- lazy-sql-x.x-SNAPSHOP.jar
+	|-- src
+	|	|-- main
+	|		|-- java
+	|-- pom.xml
 ```
 
 #### Step 2

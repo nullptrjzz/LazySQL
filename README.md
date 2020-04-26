@@ -1,6 +1,5 @@
 # LazySQL
-懒人SQL福利，无需担心不时的```SqlException```，专注于
-
+懒人SQL福利，无需担心不时的```SqlException```，专注于眼下代码的开发。
 
 
 ### 使用方法
